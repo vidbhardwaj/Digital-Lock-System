@@ -22,10 +22,10 @@ It uses push buttons as password input, LEDs for status indication, and a servo 
 - Default password: **1-2-3** (press button 1, then 2, then 3)
 
 ## 📷 Circuit Diagram
-![Circuit Diagram](Circuit Diagram.png)
+
 
 ## 💻 Code
-See [LockSystem.ino](LockSystem.ino) for the Arduino sketch.
+
 
 ## 🚀 Next Versions
 - **v2_physical_deploy** → mounted on a lockbox/door  
