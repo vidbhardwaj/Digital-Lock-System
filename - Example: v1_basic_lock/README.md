@@ -22,7 +22,7 @@ It uses push buttons as password input, LEDs for status indication, and a servo 
 - Default password: **1-2-3** (press button 1, then 2, then 3)
 
 ## 📷 Circuit Diagram
-
+![circuit diagram](circuit diagram.png)
 
 ## 💻 Code
 
